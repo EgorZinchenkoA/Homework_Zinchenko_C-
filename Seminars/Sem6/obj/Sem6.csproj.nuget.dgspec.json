@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem1\\Sem1.csproj": {}
+    "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem6\\Sem6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem1\\Sem1.csproj": {
+    "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem6\\Sem6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem1\\Sem1.csproj",
-        "projectName": "Sem1",
-        "projectPath": "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem1\\Sem1.csproj",
+        "projectUniqueName": "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem6\\Sem6.csproj",
+        "projectName": "Sem6",
+        "projectPath": "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem6\\Sem6.csproj",
         "packagesPath": "C:\\Users\\Egor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem1\\obj\\",
+        "outputPath": "C:\\Users\\Egor\\Desktop\\C#\\#\\Seminars\\Sem6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Egor\\AppData\\Roaming\\NuGet\\NuGet.Config"
