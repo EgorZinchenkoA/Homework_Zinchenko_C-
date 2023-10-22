@@ -1,0 +1,15 @@
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\bin\Debug\net6.0\Sem9.exe
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\bin\Debug\net6.0\Sem9.deps.json
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\bin\Debug\net6.0\Sem9.runtimeconfig.json
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\bin\Debug\net6.0\Sem9.dll
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\bin\Debug\net6.0\Sem9.pdb
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.csproj.AssemblyReference.cache
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.AssemblyInfoInputs.cache
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.AssemblyInfo.cs
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.dll
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\refint\Sem9.dll
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.pdb
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\Sem9.genruntimeconfig.cache
+C:\Users\Egor\Desktop\C#\#\Seminars\Sem9\obj\Debug\net6.0\ref\Sem9.dll
